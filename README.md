@@ -7,7 +7,7 @@ The below references an opinion and is for information purposes only. It does no
 ## Mistakes
 If you see anything from a spelling error to a mistated fact, please send a pull request fixing the mistake ASAP.
 
-## An introduction to financial vehicles
+## An introduction to financial products and vehicles
 
 ### Common institution types
 **Credit unions** -- smaller than banks, often offer higher interest rates on accounts (good) and lower interest rates on things like loans and credit cards (good), and are run by members (some people view this as more risky, as there are sometimes less government restrictions on what the credit union can do).
