@@ -14,6 +14,8 @@ If you see anything from a spelling error to a mistated fact, please send a pull
 
 **Banks** -- larger than credit unions, typically offer lower interest rates on accounts (not good) and higher interest rates on things like loans and credit cards (not good for loans, N/A on credit cards if you're not running a balance--and it's recommended by many financial experts that you don't. See the below section on credit cards for more info), and are run by the bank itself (some people view this as safer, as there are sometimes more government restrictions on what banks can do).
 
+**Brokerages** -- also commonly referred to as **custodians**, brokerage **firms**, etc. These are financial institutions that offer and sometimes also manage funds (some brokerages manage their own funds and also offer others, some bring in outside management, etc: there are many combinations). Unlike banks which ensure your money up to 250k under FDIC Insurance, and credit unions which often offer similar assurances through other agencies, brokerage firms are regulated by parties such as FINRA/the SEC but promises about actual returns cannot be made; there is a fundamental risk in investing. 
+
 ### Common non-investment vehicle types
 There are many ways to save and invest money; note that these two actions are distinct. 
 
