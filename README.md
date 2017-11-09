@@ -16,8 +16,9 @@ Though this may make it seem like it's a bad idea to have a savings account, the
 * Especially anxious adults: 12 months of expenses
 * Especially anxious students: 6 months of expenses
 * Adults who have graduated from college and are working: 6-12 months of expenses
-* Students who are in college and are working: 3 months of expenses
-* Students who are in college and are not working: 6 months of expenses
+* Students who are in college and are working with some parental support: 1-3 months of expenses
+* Students who are in college and are working with no parental support: 3-6 months of expenses
+* Students who are in college and have full parental support (trust fund, etc): 1-3 months of expenses or N/A
 
 The amount you need in your emergency fund naturally varies wildly on personal circumstance. Students who have heavy support from their parents and have no risk of losing that support (regardless of performance in school, etc) may want to only keep a month or two of expenses on hand, if that (students with a family credit card may feel that this is unnecessary). Students who are working their way through school but would have parental support if a true disaster struck may also only need a month or two of expenses (or enough for a flight home, etc). Students without parental support of any kind typically want to provide themselves with a greater cushion should a serious emergency strike; however, meeting your emergency fund goal can be hard for anyone. Ideally, you set a realistic goal, contribute as much as you can to it over time, and keep that money somewhere safe--like a checking or savings account--and leave it untouched (NO drawing from it for splurges, etc--that stuff should be budgeted for and kept separate). 
 
