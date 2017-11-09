@@ -7,6 +7,10 @@ The below references an opinion and is for information purposes only. It does no
 ## An introduction to financial vehicles
 There are many ways to save and invest money; note that these two actions are distinct. 
 
+**Credit unions** -- smaller than banks, often offer higher interest rates on accounts (good) and lower interest rates on things like loans and credit cards (good), and are run by members (some people view this as more risky, as there are sometimes less government restrictions on what the credit union can do).
+
+**Banks** -- larger than credit unions, typically offer lower interest rates on accounts (not good) and higher interest rates on things like loans and credit cards (not good for loans, N/A on credit cards if you're not running a balance--and it's recommended by many financial experts that you don't. See the below section on credit cards for more info), and are run by the bank itself (some people view this as safer, as there are sometimes more government restrictions on what banks can do).
+
 **"Savings"** is a liquid or semi-liquid way to store money. This means that you are able to immediately or near-immediately withdraw money, within conditions: for U.S. banks, official savings accounts are typically limited to 6 withdrawals per month (**checking** accounts typically have no such restrictions, but also typically earn no interest). Savings accounts typically earn very small amounts of **interest** -- usually less than 1%, or between 1-2% if you're really lucky (more common with credit unions or online banks, which tend to impose additional restrictions to earn these higher rates). However, **inflation** typically averages between 2-3%; this means that **money stored in a savings account is typically losing value over time**, not gaining it, even though the balance is higher each year (because inflation typically outpaces interest). 
 
 Though this may make it seem like it's a bad idea to have a savings account, there are still advantages; they are safer than storing money under a mattress/in a box/etc, as banks ensure basic financial vehicles like checking and savings accounts (NOT investment vehicles) up to $250,000 per FDIC Insurance. For their safety advantages, savings accounts are widely regarded as a wise choice for emergency funds.
@@ -21,6 +25,10 @@ Though this may make it seem like it's a bad idea to have a savings account, the
 * Students who are in college and have full parental support (trust fund, etc): 1-3 months of expenses or N/A
 
 The amount you need in your emergency fund naturally varies wildly on personal circumstance. Students who have heavy support from their parents and have no risk of losing that support (regardless of performance in school, etc) may want to only keep a month or two of expenses on hand, if that (students with a family credit card may feel that this is unnecessary). Students who are working their way through school but would have parental support if a true disaster struck may also only need a month or two of expenses (or enough for a flight home, etc). Students without parental support of any kind typically want to provide themselves with a greater cushion should a serious emergency strike; however, meeting your emergency fund goal can be hard for anyone. Ideally, you set a realistic goal, contribute as much as you can to it over time, and keep that money somewhere safe--like a checking or savings account--and leave it untouched (NO drawing from it for splurges, etc--that stuff should be budgeted for and kept separate). 
+
+**CDs** are another financial vehicle that most banks and credit unions will offer 
+
+**Investment accounts**, meanwhile, are wholly distinct from savings and checking accounts, etc, 
 
 
 
