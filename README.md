@@ -94,23 +94,23 @@ However, there are additional **limits** on which kind of IRA you're allowed to 
 
 ## Fundamental personal finance and steps
 
-### Credit score
+### Credit Scores
 
 ### Budgeting
 
 #### Coupons, rebates, and cash back
 
-### Debts and collections
+### Debts and Collections
 
-### Credit cards
+### Credit Cards
 
 #### Proper use
 
 #### Benefits 
 
-### Saving
+### Saving Money
 
-### Investing 
+### Investing Money and Retirement
 
 
 
