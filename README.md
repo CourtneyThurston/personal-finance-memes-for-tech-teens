@@ -77,7 +77,7 @@ Now we've touched on the risk and strategy disadvantages of individual stocks an
 There are two main types of vehicles, and they both require that you be employed: the 401k and the IRA. There are also standard brokerage accounts without the perks of the 401k and the IRA, and people who somehow manage to have disposable money without employment can buy securities to be held within those accounts instead. The 401k and the IRA can be thought of as "wrappers" that hold investments; you can usually hold the same securities in a regular brokerage account as you can a 401k or an IRA, the latter two just come with additional perks if you hold securities within them--but they also come with restrictions.
 
 #### The 401k
-The **401k** is a type of investment vehicle that your employer must choose to offer. There are a couple key things to understand:
+The **401k** is a type of retirement investment vehicle that your employer must choose to offer. There are a couple key things to understand:
 * In a traditional 401k, your contributions go in pre-tax (you avoid taxes putting the money in; when you withdraw from your 401k eventually, that's when you will incur the tax).
 * In a Roth 401k (much less commonly offered than a traditional 401k), your contributions go in post-tax (you pay taxes as usual and then put the money in; when you withdraw from your 401k eventually, you do not have to pay taxes on that withdrawal). 
 * Most employers choose to offer a "401k **match**", which is really what makes 401ks special and makes their impact go far on your retirement planning. A company may, for instance, choose to contribute 50% to the plan for every dollar you put in. So if you contribute $18,000 to the plan, your company will "match" $9000 of it, and contribute that $9000 to the plan: so you finish the year with $27,000 in the plan, 9k of which you didn't have to shell out. Without a company match, a 401k is not very special, but it does add another option for you to avoid taxes now and defer them to later, which makes sense for some people (especially, but not limited to, people who are in a higher tax bracket now than they will be in retirement).
@@ -85,14 +85,32 @@ The **401k** is a type of investment vehicle that your employer must choose to o
 If your employer does not choose to offer one (and you aren't self-employed, etc -- you can google all the special cases of 401ks), you simply don't have the option of investing in a 401k plan. Accordingly, most "white-collar" jobs will offer a 401k plan (so tech workers need not be very worried--your employer probably offers a plan), but many "blue-collar" jobs will not. This is because a 401k costs your company money to sponsor; the fees the company pays, and the fees you pay, will vary by the plan your company chooses. Let's define "plan": the 401k **plan** is the list of mutual funds and other securities being offered as choices by the brokerage company your company chooses as the 401k administrator. Your company pays this company some ampount of money to administer the plan; where *you* incur fees goes back to the topic of expense ratios. Top tech companies will usually choose a low-fee fund administrator and/or eat a lot of the fees themselves, to provide employees with low-cost options; less cash-heavy companies may choose less good plans with higher expense ratios. Whether or not you want to invest in high-expense-ratio choices is a decision that most people find comes down to the company match; for high expense ratios, it is sometimes worth investing as much as you need to to get the full company match, but usually not more (some companies will offer a match like "50% on the first 12k the employee invests", so in this case you'd invest 12k instead of the 2017 401k **total limit of $18,000/yr**, because the "free money" of the match is worth it, but investing past the match only incurs that huge expense ratio with nothing to offset that portion beyond that 12k). This is an analysis you will have to do for yourself, based on your companies' matching offer (if any), and the expense ratios of the securities you want to hold in your 401k. 
 
 #### The IRA
-Unlike the 401k, the IRA ("Individual Retirement Account" -- not the Irish militant group) is not something offered by employers; you alone chose whether or not to invest in one, and whether or not you can depends on if you have earned income (basically whether or not you make money from work: there are a few other minor categories of earned income, and you can google to find them). Like the 401k, there are two kinds of IRAs, but this time you get to choose which you invest in (you can also invest in both, but the **total overall limit of $5500/yr** for ages up to 50 stands -- the limit for ages 50 and above is $6500). These types are the same as in the 401k case:
+Unlike the 401k, the IRA ("Individual Retirement Account" -- not the Irish militant group) not something offered by employers; you alone chose whether or not to invest in this retirement investment vehicle, and whether or not you can depends on if you have earned income (basically whether or not you make money from work: there are a few other minor categories of earned income, and you can google to find them). Like the 401k, there are two kinds of IRAs, but this time you get to choose which you invest in (you can also invest in both, but the **total overall limit of $5500/yr** for ages up to 50 stands -- the limit for ages 50 and above is $6500). These types are the same as in the 401k case:
 
 * In a traditional IRA, your contributions go in pre-tax (you avoid taxes putting the money in; when you withdraw from your IRA eventually, that's when you will incur the tax). This is typically adviseable for people who are in higher tax brackets now than they will be in retirement.
 * In a Roth IRA, your contributions go in post-tax (you pay taxes as usual and then put the money in; when you withdraw from your IRA eventually, you do not have to pay taxes on that withdrawal). This is typically adviseable for people who are in lower tax brackets now than they will be later, such as students.
 
 However, there are additional **limits** on which kind of IRA you're allowed to directly invest in. People with high incomes, such as many tech workers, will find that they cannot deduct the amount contributed to a Traditional IRA from their taxes, as they make too much. Additionally, they will find they cannot contribute to a Roth IRA directly, as they make too much to be eligible. To get around these problems, they have to do a maneuver called a **backdoor Roth** to reap benefits from an IRA; you can google how to do a backdoor Roth and execute the steps with your chosen brokerage firm. It is important not to have previous contributions to a traditional IRA if you want to executive a backdoor Roth maneuver; so **please research the backdoor Roth maneuver and talk to a representative at your brokerage before taking steps to invest**. 
 
+## Fundamental personal finance and steps
 
+### Credit score
+
+### Budgeting
+
+#### Coupons, rebates, and cash back
+
+### Debts and collections
+
+### Credit cards
+
+#### Proper use
+
+#### Benefits 
+
+### Saving
+
+### Investing 
 
 
 
