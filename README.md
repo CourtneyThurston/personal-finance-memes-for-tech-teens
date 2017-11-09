@@ -60,7 +60,7 @@ Index/mutual funds are collections of individual stocks. Investing in a mutual f
 * The **"three-fund portfolio"** strategy. This is essentially the way target date retirement funds are composed behind the scenes, but instead of automatically being adjusted as time goes on, you have to adjust them yourself as you get older. This may be the appropriate choice for people who want to have a greater degree of control over their finances, but are not tempted to day-trade (i.e. make the very-likely-a-mistake choice of trading individual stocks). A three-fund portfolio is made up of some percentage of the U.S. Total Stock Market fund, the Total International Stock Market fund, and the Total Bond Fund, all three of which can be purchased through any major investment custodian like Vanguard, Fidelity, or Schwab. The percentage of each is up to the investor; the total international mutual fund is considered the most risky, followed by the total U.S. market, followd by the total bond market--investors can adjust these holdings to their personal risk tolerance. Some common portfolio weights are listed on the Bogleheads Wiki (google "Bogleheads wiki and three fund portfolios").
 
 Mutual funds come with fees, however, called the **"expense ratio"**. Because interest compounds overtime, the affect on an expense ratio of 1% may sound small, but it can actually be several hundreds of thousands of dollars over a long period of time. As a result, you want to find the lowest expense ratios possible for the mutual funds you want. Here are some approximate guidelines on good and bad expense ratios:
-* >1% = RUN 
+* over 1% = RUN 
 * 0.75 - 1% = bad
 * 0.50 - 0.75 = mediocre
 * 0.25 - 0.50 = good
