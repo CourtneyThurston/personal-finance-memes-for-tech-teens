@@ -134,6 +134,17 @@ Apart from cash back offers, also make sure to make good use of coupons and reba
 * https://paribus.co/ Skims your email for receipts (with your permission) and automatically checks to see if the items you've bought have dropped in price since. If they have, it automatically files claims with the companies you bought from, which often results in them "price-matching" the purchase and refunding the difference. 
 
 ### Debts and Collections
+Not all debts are created equally: some of them are even "good" as long as you pay on time every month, like a mortgage or low-interest-rate student loans (mostly older people or people who have refinanced from higher-rate student loans have these). These can be "good" when the interest rates are low, and you know you can pay the balance in full with reasonable monthly installments over time. However, credit card debt is an example of a "bad" debt; interest rates are typically very high relative to other forms of credit, and correct credit card use doesn't constitute carrying a balance (you should let the amount hit your statement and then pay it in full every month to avoid using it incorrectly). 
+
+If you have accrued a debt, as mentioned above, make sure to pay your potion (the minimum or above -- your creditor should tell you what those figures are) to avoid going to 'collections'. Debts go into collection when you haven't paid them in a while, or haven't set up any form of payment plan with your creditor. In this case, the creditor often "sells" the debt to a collections agency to deal with, and they have the legal right to take you to court and get a judgement against you. 
+
+Even financially-on-top-of-it people may find themselves in collections once, especially with old medical debt (like an Ememergency Room visit) that it may not have occurred to a young student that they had, etc. In the case that you do end up in collections, typically you'll want to follow these steps:
+1. Contact the original creditor (like the hospital where you were treated, in the case of medical debt) and ask if you can still pay them, in return for them telling the collections agency to drop it. Sometimes, but not always, this is possible. If they say it is, make sure you get that in writing. Pay the original creditor, keep that record, and send via certified mail a letter to the collections agency requesting verification of the validity of the debt & saying you've already paid the original creditor.
+2. Send via certified mail a letter to the collections agency requesting verification of the validity of the debt & saying you've already paid the original creditor. If the debt is valid (they can prove it's yours, it wasn't paid yet, etc), you'll need to pay up to avoid them getting a court judgement against you, where they can garnish your wages, etc. 
+
+Be sure to get all correspondances in writing (phone calls are fine, but insist on also getting what the person at the other end said in writing as well, from them) and send all letters from your end as certified mail ONLY: this ensures someone on the other end has to sign for your letter, which means they can't pretend they didn't receive it, or act like you haven't tried to respond. This covers your butt a little.
+
+Most of all, DO NOT ignore collections notices. Nothing good will ever come of it; especially because derogatory marks on your credit report will stay there for seven (7) whole years before dropping off. That's a long time to have bad credit. 
 
 ### Credit Cards
 
