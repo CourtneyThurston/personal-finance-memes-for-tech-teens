@@ -95,8 +95,32 @@ However, there are additional **limits** on which kind of IRA you're allowed to 
 ## Fundamental personal finance and steps
 
 ### Credit Scores
+Credit scores are a bit like the SAT; they frustrate a lot of people, but for better or worse the scores are used pretty heavily in calculations by third parties -- except this time, it's landlords, employers, and financial companies judging you, not colleges and scholarships. You can think of credit scores as pretty analogous to SAT scores in terms of what's considered good, too: just shift up about 100 points. So where a 525 SAT math score is about the national average, 625 is about the national average credit score. However, just like the SAT, having an average score doesn't get you much -- in fact, it can hurt you. To get good rates on critical loans like car loans, mortgages, etc, you really want a credit score of 700 or above; the best rates go to folks with scores over 720-740. 
+
+The credit score, also commonly referred to as the FICO score, is calculated by three separate agencies (Experian, Equifax, and TransUnion) based on information reported to them from banks, lenders, etc. Anyone using the FICO score model will be using these weighted criteria:
+* 35% payment history: you ALWAYS want to pay at least the minimum payment on-time, or it'll hurt your score a lot.
+* 30% amount owed: you want to make sure you don't have too much debt, and that you're not utilizing your credit cards' total limits too much -- experts advise keeping your utilization ideally to 10% or under of your total credit line, or at least under 30% if that's too hard.
+* 15% length of history: having a credit card when you're young and using it responsibly (read the section below on what that means) can really help your score. The more data they have, the more reliable their prediction gets on whether or not you'll repay your debts.
+* 10% new credit: applying for lots of new credit at one time can make it look like you're about to go on a shopping spree. If you were -- well, don't do that. If you're simply shopping around for the best rates, make sure you do all your inquiries on the same day, or only spread across a day or two. This sometimes leads to the three agencies above bundling all those inquiries together as only one inquiry, which won't hurt your score much.
+* 10% types of credit used: having a mix of credit lines open can help. For instance, good usage of a credit card coupled with on-time repayments of a student loan can lead to higher credit scores than just using a credit card correctly. However, folks without student loans need not worry: car loans, mortgages, etc, also count, and you're likely to have at least one of those after graduation. Just be sure to pay everything on-time (and credit cards in full every month!)
+
+There are a couple of free online tools to help you check your credit score. CreditKarma is my favorite, as you can check it whenever you like, and it only uses "soft pulls" to check your credit with those three agencies -- so their checking won't affect your score at all. You can find them at www.creditkarma.com
+
+You're also entitled to one free official credit score report every year: you can view that at www.annualcreditreport.com
+
+*But I've seen lots of ads on TV for other sites: should I check with those too?*
+Nah. CreditKarma is a really reliable third party tool, and AnnualCreditReport.com is owned by those three major agencies: you can't get more accurate than that. Remember: you should never pay to see your credit score (just like there are lots of scammy FAFSA sites, there are lots of scammy credit report sites -- so just stick with the reputable ones). 
 
 ### Budgeting
+Like credit scores, budgets are much misunderstood. A good budget gives every dollar a job: your budget's last line should be a 0, because you've already "budgeted" your savings, investments, etc. This will help you make sure you don't overspend, because leaving a balance to do with what you please can be very tempting. Instead of just leaving a floating balance of left-over money, budget your "misc fun stuff" or "clothes", etc, so you know what you're limited to every month. If the purchase you want to make exceeds those amounts, save that monthly amount in a checking or savings account until you reach your goal; or, if the purchase is critical and unforeseen, you can dip into (and then replenish) your emergency fund. 
+
+There are a number of good free digital tools out there to help you budget: www.mint.com is one of them; www.youneedabudget.com is another, which is free for students (with email verification; you'll have to send them a pic of your student ID, or a transcript, or something else that proves you're an active student). 
+
+It's hard to recommend limits for commonly-overpent categories, as everyone's situation is different. But there are some rules and tips that can help you make sure your budget is sane:
+* Rent shouldn't be higher than 33% of your gross income. If it is, it's likely you're living somewhere affordable. If you're living somewhere obnoxiously expensive like the SF Bay Area, you may have to go over this limit -- but do so sparingly, after considering options like living further from work, sharing with more roommates, etc. 
+* No matter the cost of living, students should typically be able to stay under $100/week for food, unless there are extenuating necessary dietary issues. Eating out a lot adds up -- and this includes small things like coffee, etc. Be sure to budget your eating out and your Starbucks, or you might be surprised how quickly your lattes add up.
+* With all the options online, cable AND internet is often not needed. If you're a student trying to pick one, go with the internet + Netflix or Hulu, or something similar. You can still use a TV or a monitor to stream your shows on a bigger screen. 
+* No-contract mobile services like Straight Talk, Republic Wireless, etc, can help you cut costs from your cell phone plan. 
 
 #### Coupons, rebates, and cash back
 
