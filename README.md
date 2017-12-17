@@ -147,12 +147,20 @@ Be sure to get all correspondances in writing (phone calls are fine, but insist 
 Most of all, DO NOT ignore collections notices. Nothing good will ever come of it; especially because derogatory marks on your credit report will stay there for seven (7) whole years before dropping off. That's a long time to have bad credit. 
 
 ### Credit Cards
+For a reminder on what factors into the credit score, scroll up to 'Credit Scores' or click here: https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens/blob/master/README.md#credit-scores
 
 #### Proper use
 
 #### Benefits 
 
 ### Saving Money
+The things I save money for come down to these things:
+* My emergency fund (see also Emergency Funds under "Common non-investment vehicle types": https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens/blob/master/README.md#common-non-investment-vehicle-types)
+* Things I want (see also Budgeting: https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens/blob/master/README.md#budgeting)
+
+I also keep some minor cash in checking to pay bills that require direct payment, like my internet and electric. 
+
+Beyond that, I don't keep much liquid, because generally you're most risk-tolerant when you're young, making it the best time to invest for the long-term (like for retirement). For that reason, I keep the rest of my assets tied up in investments.
 
 ### Investing Money and Retirement
 
