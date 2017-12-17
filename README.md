@@ -1,5 +1,5 @@
 # personal-finance-memes-for-tech-teens
-A walkthrough of personal-finance issues for young people with tech careers.
+A walkthrough of personal-finance issues for young people, especially young people with tech careers.
 
 # Disclaimer
 The below references an opinion and is for information purposes only. It does not constitute tax, investment, nor financial advice; this is simply a walkthrough of personal finance issues to consider as a young person with a tech (primarily software engineering/computer science career. Seek a duly licensed professional with a fiduciary duty for official advice.
@@ -151,8 +151,16 @@ Most of all, DO NOT ignore collections notices. Nothing good will ever come of i
 For a reminder on what factors into the credit score, scroll up to 'Credit Scores' or click here: https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens/blob/master/README.md#credit-scores
 
 #### Proper use
+Correctly using a credit card means you pay your balance in full, every month, before the payment due date. Ideally, you're also keeping your credit utilization low, etc, as described above. These practices help to optimize the factors that go into calculating your credit score, and by paying in full, you avoid all interest (so it doesn't matter if your credit card has a 105829548% interest rate: you don't pay a cent of interest if you pay on time, in full). 
+
+There are a number of myths about credit cards, including that having them isn't good (they're GREAT as long as you're not going to be irresponsible and charge more to them than you can afford), or that carrying a small balance month-to-month improves your score (it doesn't; as long as you're paying your minimum, it also doesn't bring your score down, but by carrying a balance you also incur interest -- you don't incur any interest when you pay in full on time every month). 
 
 #### Benefits 
+If you can use a credit card correctly, you'll reap a lot of benefits:
+* Credit cards, especially cards for folks with good or excellent credit, typically come with cash back bonuses. For instance, on a card offering 1% cash back, you'd get 1% of the purchase price of each item you paid for with the card back as "cash back". This is especially helpful to stack with coupons and good spending habits in general, letting you effectively stack discounts on discounts. Typically, the best way to use your cash back is by applying it as a statement credit -- reducing, dollar-for-dollar, the amount you owe at the end of the month when your credit card statement comes out.
+* Credit cards are also way more secure than debit cards; if your debit card is stolen and something gets paid for with it, most banks will... eventually... refund you. But for that period of time (which can take a while), you're out your own money. If your credit card gets stolen and things get charged to it, it's the creditor that's out that money, not you -- it's easy to close the card, order a new one, and go on with your life without as much liability.
+* You also have many more avenues for merchant disputes with a credit card. If you buy something and it arrives not-as-advertised, etc, and the seller refuses to refund you, you can issue a "chargeback" on your credit card: that's where the creditor refunds you, and then pursues the seller for payment. Like in the case above, this removes a lot of hassle from your end, giving it instead to the creditor to handle. 
+* Many credit cards come with sign-up bonuses, especially with referrals. These can be dangerous if you're not discliplined (but then again, if you're not, you probably shouldn't touch credit cards to begin with), but great if you have regularly scheduled purchases you need to make. For instance, many credit cards have offers where you'll give you a $300 statement credit if you spend $1000 on the card in your first 3 months; in cases like these, I'll charge my flights to and from school to the card, pay it off with my financial aid refund for transportation, and get that $300 statement bonus (so suddenly $1000 in flights only really cost me $700). This is sometimes referred to as "churning", and is something you should only really consider when you're really comfortable with your spending habits and how credit cards, etc, work. If/when you're ready, you can learn more at https://www.reddit.com/r/churning/
 
 ### How much to save
 The things I save money for come down to these things:
