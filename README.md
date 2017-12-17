@@ -162,6 +162,14 @@ If you can use a credit card correctly, you'll reap a lot of benefits:
 * You also have many more avenues for merchant disputes with a credit card. If you buy something and it arrives not-as-advertised, etc, and the seller refuses to refund you, you can issue a "chargeback" on your credit card: that's where the creditor refunds you, and then pursues the seller for payment. Like in the case above, this removes a lot of hassle from your end, giving it instead to the creditor to handle. 
 * Many credit cards come with sign-up bonuses, especially with referrals. These can be dangerous if you're not discliplined (but then again, if you're not, you probably shouldn't touch credit cards to begin with), but great if you have regularly scheduled purchases you need to make. For instance, many credit cards have offers where you'll give you a $300 statement credit if you spend $1000 on the card in your first 3 months; in cases like these, I'll charge my flights to and from school to the card (because I was going to purchase them anyway), pay it off with my financial aid refund for transportation, and get that $300 statement bonus (so suddenly $1000 in flights only really cost me $700). This is sometimes referred to as "churning", and is something you should only really consider when you're really comfortable with your spending habits and how credit cards, etc, work. If/when you're ready, you can learn more at https://www.reddit.com/r/churning/
 
+#### Links to Recommended Credit Cards
+Tagging onto the above note about leveraging sign-up bonuses for credit cards, here are links to the ones I use (some of them are referral links):
+* Citi DoubleCash (2% cash back on everything): https://www.online.citibank.co.in/portal/newgen/cards/tab/apply-now.htm?campaign_id=creditcards3&referralCode=Co1C3538
+* Amazon Prime Rewards Visa Signature Card (5% cash back on Amazon.com purchases with a Prime membership; 2% on restaurants, gas stations, and drug stores; 1% back on everything else)
+* Amazon Prime Store Card (5% back on Amazon.com purchases with a Prime membership -- had this in my wallet before the Amazon Prime Rewards Visa Signature Card, obviously; this one is easier to qualify for): 
+* Chase Freedom Card (5% cash back on quarterly-rotating categories like Grocery Stores, Restaurants, Drug Stores, Gas Stations, Department Stores, Amazon, and more; 1% cash back on all other purchases): https://www.referyourchasecard.com/2/IOOJFHUC16
+
+
 ### How much to save
 The things I save money for come down to these things:
 * My emergency fund (see also Emergency Funds under "Common non-investment vehicle types": https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens/blob/master/README.md#common-non-investment-vehicle-types)
