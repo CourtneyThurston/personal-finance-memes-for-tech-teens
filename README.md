@@ -154,7 +154,7 @@ For a reminder on what factors into the credit score, scroll up to 'Credit Score
 
 #### Benefits 
 
-### Saving Money
+### How much to save
 The things I save money for come down to these things:
 * My emergency fund (see also Emergency Funds under "Common non-investment vehicle types": https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens/blob/master/README.md#common-non-investment-vehicle-types)
 * Things I want (see also Budgeting: https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens/blob/master/README.md#budgeting)
@@ -168,7 +168,10 @@ Situations in which you'd want to keep more money liquid in savings include:
 * Saving for a wedding.
 * Basically saving for anything large with a time horizon of less than 10 years.
 
-### Investing Money and Retirement
+### How much to invest
+How much you'll want to invest for retirement, or for large events with time horizons of over 10 years (like having a kid and wanting to invest for their college education -- which, spoiler alert, you should probably use a 529 Account (google it)) will come down to the work you did in your budget (see https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens/blob/master/README.md#budgeting for a reminder; see also https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens/blob/master/README.md#common-investment-products-and-vehicle-types for a reminder on how in invest wisely). 
+
+I often get asked how I determine how much I put away from internships. Again, when I was younger, I didn't have to budget for as many things, as I was still a minor with partial parental support for my first internship or two. In these situations, I put away about 90% of what I netted. Now, as an adult paying for everything, I invest about 62% of my net earnings. This is still quite high, and a reflection of both my aggressiveness in investing for retirement and lack of student loans/other debts: your mileage may vary. 
 
 
 
