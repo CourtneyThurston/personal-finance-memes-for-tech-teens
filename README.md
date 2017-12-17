@@ -109,6 +109,7 @@ There are a couple of free online tools to help you check your credit score. Cre
 You're also entitled to one free official credit score report every year: you can view that at www.annualcreditreport.com
 
 *But I've seen lots of ads on TV for other sites: should I check with those too?*
+
 Nah. CreditKarma is a really reliable third party tool, and AnnualCreditReport.com is owned by those three major agencies: you can't get more accurate than that. Remember: you should never pay to see your credit score (just like there are lots of scammy FAFSA sites, there are lots of scammy credit report sites -- so just stick with the reputable ones). 
 
 ### Budgeting
@@ -161,6 +162,11 @@ The things I save money for come down to these things:
 I also keep some minor cash in checking to pay bills that require direct payment, like my internet and electric. 
 
 Beyond that, I don't keep much liquid, because generally you're most risk-tolerant when you're young, making it the best time to invest for the long-term (like for retirement). For that reason, I keep the rest of my assets tied up in investments.
+
+Situations in which you'd want to keep more money liquid in savings include:
+* Saving for a downpayment.
+* Saving for a wedding.
+* Basically saving for anything large with a time horizon of less than 10 years.
 
 ### Investing Money and Retirement
 
