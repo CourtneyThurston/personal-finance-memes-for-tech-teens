@@ -117,12 +117,21 @@ Like credit scores, budgets are much misunderstood. A good budget gives every do
 There are a number of good free digital tools out there to help you budget: www.mint.com is one of them; www.youneedabudget.com is another, which is free for students (with email verification; you'll have to send them a pic of your student ID, or a transcript, or something else that proves you're an active student). 
 
 It's hard to recommend limits for commonly-overpent categories, as everyone's situation is different. But there are some rules and tips that can help you make sure your budget is sane:
-* Rent shouldn't be higher than 33% of your gross income. If it is, it's likely you're living somewhere affordable. If you're living somewhere obnoxiously expensive like the SF Bay Area, you may have to go over this limit -- but do so sparingly, after considering options like living further from work, sharing with more roommates, etc. 
+* Rent shouldn't be higher than 33% of your gross income. If it is, it's likely you're living somewhere unaffordable. If you're living somewhere obnoxiously expensive like the SF Bay Area, you may have to go over this limit -- but do so very cautiously, after considering options like living further from work, sharing with more roommates, etc. 
 * No matter the cost of living, students should typically be able to stay under $100/week for food, unless there are extenuating necessary dietary issues. Eating out a lot adds up -- and this includes small things like coffee, etc. Be sure to budget your eating out and your Starbucks, or you might be surprised how quickly your lattes add up.
 * With all the options online, cable AND internet is often not needed. If you're a student trying to pick one, go with the internet + Netflix or Hulu, or something similar. You can still use a TV or a monitor to stream your shows on a bigger screen. 
 * No-contract mobile services like Straight Talk, Republic Wireless, etc, can help you cut costs from your cell phone plan. 
 
-#### Coupons, rebates, and cash back
+#### Coupons and rebates
+One of the major benefits of credit cards are the cash back benefits: I'll address those below in the Credit Cards section.
+
+Apart from cash back offers, also make sure to make good use of coupons and rebates. Here's some helpful sites that I use (referral links are disclosed):
+* www.RetailMeNot.com will show you the most popular coupon codes other people have used on particular sites.
+* https://ibotta.com/r/ohxanlh (Referral) lets you add rebates to your cart, and redeem them when you take a picture of your receipts and upload them to the site's team for their verification that you really did buy the items or brands offering rebates. I've gotten back over $80 in the span of about two months, especially because Ibotta has a $1-off every Uber ride rebate, which I use a lot. Your milage may vary (literally). 
+* http://www.swagbucks.com/refer/Thurscon (Referral) gives you cash back on top of any credit card cash back offers you may have, when you shop through their link. The annoying thing here is the cash back is given in the form of a gift card of your choice (from whatever they offer on their site), but I still use it a lot when Honey or WikiBuy (see below) aren't able to find cheaper offers elsewhere (because then Honey and WikiBuy offer their own cash back, but they're both pretty small and so far I haven't been able to figure out how cashing out/redemption really works).
+* https://www.joinhoney.com/ and its extension offers some coupons, but mostly is a good service for automatically finding better deals on the same item through other sellers online, and automatically testing coupon codes for you. If it can't find better offers, often they'll reward you for a purchase through "Honey Gold"... usefulness to be determined. I mostly recommend using this just to find out if there are cheaper offers elsewhere.
+* https://wikibuy.com/ Same thing as Honey, really. Automatically tests coupon codes and tries to find better offers on the item you're looking at buying. Also offers cash back of its own sometimes, but again, usefulness to be determined. So I mostly just use this for automatically scanning for and applying coupon codes, etc. 
+* https://paribus.co/ Skims your email for receipts (with your permission) and automatically checks to see if the items you've bought have dropped in price since. If they have, it automatically files claims with the companies you bought from, which often results in them "price-matching" the purchase and refunding the difference. 
 
 ### Debts and Collections
 
