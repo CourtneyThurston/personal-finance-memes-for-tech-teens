@@ -79,6 +79,8 @@ There are two main types of vehicles, and they both require that you be employed
 #### Stock Purchase Plan 
 While it is usually not a good idea to buy and sell individual stocks ("daytrading"), tech employers often offer a stock purchase plan, where employees can buy their company's stock at a reduced rate, and sell it (some requirements and restrictions will apply). Usually it is wise to elect to take advantage of these plans. For instance, someone at Microsoft [I don't have a direct citation for this, but by quick mental math it sounds about right] calculated that by buying stocks at 10% discount and selling them as soon as they were able, the profits from that amounted to about a 1.33% bonus annually. This person, by level, would have had a base salary of about 180k -- so 1.33% is no joke.
 
+Stock purchase plans are typically not extended to interns.
+
 #### The 401k
 The **401k** is a type of retirement investment vehicle that your employer must choose to offer. There are a couple key things to understand:
 * In a traditional 401k, your contributions go in pre-tax (you avoid taxes putting the money in; when you withdraw from your 401k eventually, that's when you will incur the tax).
@@ -90,7 +92,7 @@ If your employer does not choose to offer one (and you aren't self-employed, etc
 401k participation is typically not extended to interns.
 
 #### The IRA
-Unlike the 401k, the IRA ("Individual Retirement Account" -- not the Irish militant group) not something offered by employers; you alone chose whether or not to invest in this retirement investment vehicle, and whether or not you can depends on if you have earned income (basically whether or not you make money from work: there are a few other minor categories of earned income, and you can google to find them). Like the 401k, there are two kinds of IRAs, but this time you get to choose which you invest in (you can also invest in both, but the **total overall limit of $5500/yr** for ages up to 50 stands -- the limit for ages 50 and above is $6500). These types are the same as in the 401k case:
+Unlike the 401k, the **IRA** ("Individual Retirement Account" -- not the Irish militant group) not something offered by employers; you alone chose whether or not to invest in this retirement investment vehicle, and whether or not you can depends on if you have earned income (basically whether or not you make money from work: there are a few other minor categories of earned income, and you can google to find them). Like the 401k, there are two kinds of IRAs, but this time you get to choose which you invest in (you can also invest in both, but the **total overall limit of $5500/yr** for ages up to 50 stands -- the limit for ages 50 and above is $6500). These types are the same as in the 401k case:
 
 * In a traditional IRA, your contributions go in pre-tax (you avoid taxes putting the money in; when you withdraw from your IRA eventually, that's when you will incur the tax). This is typically adviseable for people who are in higher tax brackets now than they will be in retirement.
 * In a Roth IRA, your contributions go in post-tax (you pay taxes as usual and then put the money in; when you withdraw from your IRA eventually, you do not have to pay taxes on that withdrawal). This is typically adviseable for people who are in lower tax brackets now than they will be later, such as students.
@@ -98,7 +100,7 @@ Unlike the 401k, the IRA ("Individual Retirement Account" -- not the Irish milit
 However, there are additional **limits** on which kind of IRA you're allowed to directly invest in. People with high incomes, such as many tech workers, will find that they cannot deduct the amount contributed to a Traditional IRA from their taxes, as they make too much. Additionally, they will find they cannot contribute to a Roth IRA directly, as they make too much to be eligible. To get around these problems, they have to do a maneuver called a **backdoor Roth** to reap benefits from an IRA; you can google how to do a backdoor Roth and execute the steps with your chosen brokerage firm. It is important not to have previous contributions to a traditional IRA if you want to executive a backdoor Roth maneuver; so **please research the backdoor Roth maneuver and talk to a representative at your brokerage before taking steps to invest**. 
 
 #### The HSA
-Some employers will offer an HSA, a Healthcare Savings Account. In this vehicle, money is invested pre-tax, much like with a regular IRA or a regular 401k (non-Roth), and the HSA balance rolls over from year to year if not used. The money can also earn interest while in the HSA, and the principal + earnings can be used to pay for qualified healthcare expenses (see your company's documents for more details). The HSA another way to optimize your tax situation and save for future expenses. 
+Some employers will offer an **HSA**, a Healthcare Savings Account. In this vehicle, money is invested pre-tax, much like with a regular IRA or a regular 401k (non-Roth), and the HSA balance rolls over from year to year if not used. The money can also earn interest while in the HSA, and the principal + earnings can be used to pay for qualified healthcare expenses (see your company's documents for more details). The HSA another way to optimize your tax situation and save for future expenses. 
 
 HSAs are typically not extended to interns.
 
@@ -165,6 +167,8 @@ Correctly using a credit card means you pay your balance in full, every month, b
 
 There are a number of myths about credit cards, including that having them isn't good (they're GREAT as long as you're not going to be irresponsible and charge more to them than you can afford), or that carrying a small balance month-to-month improves your score (it doesn't; as long as you're paying your minimum, it also doesn't bring your score down, but by carrying a balance you also incur interest -- you don't incur any interest when you pay in full on time every month). 
 
+As a general rule, you should avoid credit cards with annual fees, unless the benefits end up outweighing that cost (for instance, one of the cards I hold enables me to check bags for free, and with the frequency I do that, it saves me more money than the annual fee for the card costs me). Otherwise, avoid annual fee cards.
+
 #### Benefits 
 If you can use a credit card correctly, you'll reap a lot of benefits:
 * Credit cards, especially cards for folks with good or excellent credit, typically come with cash back bonuses. For instance, on a card offering 1% cash back, you'd get 1% of the purchase price of each item you paid for with the card back as "cash back". This is especially helpful to stack with coupons and good spending habits in general, letting you effectively stack discounts on discounts. Typically, the best way to use your cash back is by applying it as a statement credit -- reducing, dollar-for-dollar, the amount you owe at the end of the month when your credit card statement comes out.
@@ -172,13 +176,14 @@ If you can use a credit card correctly, you'll reap a lot of benefits:
 * You also have many more avenues for merchant disputes with a credit card. If you buy something and it arrives not-as-advertised, etc, and the seller refuses to refund you, you can issue a "chargeback" on your credit card: that's where the creditor refunds you, and then pursues the seller for payment. Like in the case above, this removes a lot of hassle from your end, giving it instead to the creditor to handle. 
 * Many credit cards come with sign-up bonuses, especially with referrals. These can be dangerous if you're not discliplined (but then again, if you're not, you probably shouldn't touch credit cards to begin with), but great if you have regularly scheduled purchases you need to make. For instance, many credit cards have offers where you'll give you a $300 statement credit if you spend $1000 on the card in your first 3 months; in cases like these, I'll charge my flights to and from school to the card (because I was going to purchase them anyway), pay it off with my financial aid refund for transportation, and get that $300 statement bonus (so suddenly $1000 in flights only really cost me $700). This is sometimes referred to as "churning", and is something you should only really consider when you're really comfortable with your spending habits and how credit cards, etc, work. If/when you're ready, you can learn more at https://www.reddit.com/r/churning/
 
-#### Links to Recommended Credit Cards
+#### Cards I Hold & Recommend
 Tagging onto the above note about leveraging sign-up bonuses for credit cards, here are links to the ones I use (some of them are referral links):
 * Citi DoubleCash (2% cash back on everything): https://www.online.citibank.co.in/portal/newgen/cards/tab/apply-now.htm?campaign_id=creditcards3&referralCode=Co1C3538
-* Amazon Prime Rewards Visa Signature Card (5% cash back on Amazon.com purchases with a Prime membership; 2% on restaurants, gas stations, and drug stores; 1% back on everything else)
-* Amazon Prime Store Card (5% back on Amazon.com purchases with a Prime membership -- had this in my wallet before the Amazon Prime Rewards Visa Signature Card, obviously; this one is easier to qualify for): 
+* Amazon Prime Rewards Visa Signature Card (5% cash back on Amazon.com purchases with a Prime membership; 2% on restaurants, gas stations, and drug stores; 1% back on everything else; also comes with a one-time Amazon gift card): https://www.amazon.com/Amazon-Prime-Rewards-Visa-Signature/dp/BT00LN946S
+* Amazon Prime Store Card (5% back on Amazon.com purchases with a Prime membership -- had this in my wallet before the Amazon Prime Rewards Visa Signature Card, obviously; this one is easier to qualify for, if you have a lower credit score; also comes with a one-time Amazon gift card): https://www.amazon.com/iss/credit/storecardmember
 * Chase Freedom Card (5% cash back on quarterly-rotating categories like Grocery Stores, Restaurants, Drug Stores, Gas Stations, Department Stores, Amazon, and more; 1% cash back on all other purchases): https://www.referyourchasecard.com/2/IOOJFHUC16
-
+* Gold Delta SkyMiles card (has an annual fee, so not worth it unless you're gonna check a bag more than twice a year or so, in which case it pays for itself basically; double Delta miles on purchases): http://refer.amex.us/COURTToSgP?XLINK=MYCP
+* Discover IT card (good for students; doubles all the cash back you earn in your first year; 5% back on rotating categories like with Chase Freedom, and usually they don't align so if you have both cards, you'll have 5% back at any one time on multiple categories; 1% back on everything else): https://refer.discover.com/s/zzcxg
 
 ### How much to save
 The things I save money for come down to these things:
