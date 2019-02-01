@@ -6,7 +6,7 @@ Yo just a reminder for all my churning friends that that Swell Investing promoti
 
 They've changed it from $100/per friend to $300/per 3 friends for the person giving the referral. Also, every person who GETS referred is given another $50 when they invest the first $50.
 
-swellinvesting.com/signup/0fcfc4
+https://www.swellinvesting.com/signup/0fcfc4
 
 So basically:
 1) Make an account with the link above
