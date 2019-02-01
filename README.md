@@ -221,6 +221,8 @@ How much you'll want to invest for retirement, or for large events with time hor
 
 I often get asked how I determine how much I put away from internships. Again, when I was younger, I didn't have to budget for as many things, as I was still a minor with partial parental support for my first internship or two. In these situations, I put away about 90% of what I netted. Now, as an adult paying for everything, I invest about 62% of my net earnings. This is still quite high, and a reflection of both my aggressiveness in investing for retirement and lack of student loans/other debts: your mileage may vary as everyone's situation and goals are different. 
 
+# Was this helpful?  
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/B0B7PO98)
 
 
 
