@@ -1,23 +1,6 @@
 # personal-finance-memes-for-tech-teens
 A walkthrough of personal-finance issues for young people, especially young people with tech careers.
 
-# Update as of 2/1/2019 (this is re: an active referral promotion -- skip ahead if not interested)
-Yo just a reminder for all my churning friends that that Swell Investing promotion is still going on. I just logged in cause I forgot and I found $350.03 waiting for me from referrals (in addition to the ~$48 from the original $50 I invested)
-
-They've changed it from $100/per friend to $300/per 3 friends for the person giving the referral. Also, every person who GETS referred is given another $50 when they invest the first $50.
-
-https://www.swellinvesting.com/signup/0fcfc4
-
-So basically:
-1) Make an account with the link above
-2) Deposit $50 to get your bonus of $50
-3) Share your link w/ friends if you wanna also get bonuses for referring others
-4) Get them to do the same
-5) Wait til $50 referred bonus & $300 referral bonus (the latter if you referred another 3 friends) comes through
-6) Sell to get what's left of the original $50 left
-
-So far, I came out (48.67-50)+350.03=$348.70 ahead from this promotion (I think the 0.03 was money market interest cause the cash amount of $350 sat in my acct for a little bit)
-
 # Disclaimer
 The below references an opinion and is for information purposes only. It does not constitute tax, investment, nor financial advice; this is simply a walkthrough of personal finance issues to consider as a young person with a tech (primarily software engineering/computer science career. Seek a duly licensed professional with a fiduciary duty for official advice.
 
