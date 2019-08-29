@@ -204,6 +204,11 @@ How much you'll want to invest for retirement, or for large events with time hor
 
 I often get asked how I determine how much I put away from internships. Again, when I was younger, I didn't have to budget for as many things, as I was still a minor with partial parental support for my first internship or two. In these situations, I put away about 90% of what I netted. Now, as an adult paying for everything, I invest about 62% of my net earnings. This is still quite high, and a reflection of both my aggressiveness in investing for retirement and lack of student loans/other debts: your mileage may vary as everyone's situation and goals are different. 
 
+### Additional resources
+A great place that I learned a lot about personal finance comes from Reddit's [/r/personalfinance FAQ](https://reddit.com/r/personalfinance/wiki/commontopics). A lot of the advice listed on the page helps to build a solid foundation. Depending on your own goals and lifestyle choices, the amount you dedicate in following the advice of the page may vary, but I've found that the page has helped me form a solid financial foundation. The page also has a [very popular flowchart](https://i.imgur.com/lSoUQr2.png) detailing various decisions you can make to help keep yourself on track with personal finance, which is more or less a graphical depiction of the FAQ.
+
+For investing purposes, subreddits I've found helpful are [/r/financialindependence](https://www.reddit.com/r/financialindependence/wiki) and, if you're into retiring luxuriously, [/r/fatFIRE](https://www.reddit.com/r/fatFIRE/). /r/financialindependence hosts a daily FI discussion thread which can be used to help you with your own decisions, but be sure to read up on the [FAQ](https://www.reddit.com/r/financialindependence/wiki/faq) before posting something you think has already been asked before.
+
 # Was this helpful?  
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/B0B7PO98)
 
