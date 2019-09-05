@@ -179,7 +179,6 @@ If you can use a credit card correctly, you'll reap a lot of benefits:
 
 #### Cards I Hold & Recommend
 Tagging onto the above note about leveraging sign-up bonuses for credit cards, here are links to the ones I use (some of them are referral links):
-* Citi DoubleCash (2% cash back on everything): https://www.online.citibank.co.in/portal/newgen/cards/tab/apply-now.htm?campaign_id=creditcards3&referralCode=Co1C3538
 * Amazon Prime Rewards Visa Signature Card (5% cash back on Amazon.com purchases with a Prime membership; 2% on restaurants, gas stations, and drug stores; 1% back on everything else; also comes with a one-time Amazon gift card): https://www.amazon.com/Amazon-Prime-Rewards-Visa-Signature/dp/BT00LN946S
 * Amazon Prime Store Card (5% back on Amazon.com purchases with a Prime membership -- had this in my wallet before the Amazon Prime Rewards Visa Signature Card, obviously; this one is easier to qualify for, if you have a lower credit score; also comes with a one-time Amazon gift card): https://www.amazon.com/iss/credit/storecardmember
 * Chase Freedom Card (5% cash back on quarterly-rotating categories like Grocery Stores, Restaurants, Drug Stores, Gas Stations, Department Stores, Amazon, and more; 1% cash back on all other purchases): https://www.referyourchasecard.com/2a/W6DMJ2C216
