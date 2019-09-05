@@ -183,7 +183,7 @@ Tagging onto the above note about leveraging sign-up bonuses for credit cards, h
 * Amazon Prime Store Card (5% back on Amazon.com purchases with a Prime membership -- had this in my wallet before the Amazon Prime Rewards Visa Signature Card, obviously; this one is easier to qualify for, if you have a lower credit score; also comes with a one-time Amazon gift card): https://www.amazon.com/iss/credit/storecardmember
 * Chase Freedom Card (5% cash back on quarterly-rotating categories like Grocery Stores, Restaurants, Drug Stores, Gas Stations, Department Stores, Amazon, and more; 1% cash back on all other purchases): https://www.referyourchasecard.com/2a/W6DMJ2C216
 * Platinum Delta SkyMiles card (has an annual fee, so not worth it unless you're gonna check a bag more than twice a year or so, in which case it pays for itself basically; double Delta miles on purchases): http://refer.amex.us/COURTThH4W?XLINK=MYCP
-* Discover IT card (good for students; doubles all the cash back you earn in your first year; 5% back on rotating categories like with Chase Freedom, and usually they don't align so if you have both cards, you'll have 5% back at any one time on multiple categories; 1% back on everything else): https://refer.discover.com/s/zzcxg
+* Discover IT card (good for students; doubles all the cash back you earn in your first year; 5% back on rotating categories like with Chase Freedom, and usually they don't align so if you have both cards, you'll have 5% back at any one time on multiple categories; 1% back on everything else): http://refer.discover.com/s/uuf35x
 
 ### How much to save
 The things I save money for come down to these things:
